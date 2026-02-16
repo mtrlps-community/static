@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "hostname": "[DE]官服",
+    "ip": "letsplay.minecrafttransitrailway.com",
+    "port": 25565,
+    "enabled": true,
+  },
+  {
+    "id": 2,
+    "hostname": "[US]加速",
+    "ip": "154.40.47.198",
+    "port": 25565,
+    "enabled": true,
+  },
+  {
+    "id": 3,
+    "hostname": "[DE]加速",
+    "ip": "31.25.89.100",
+    "port": 25565,
+    "enabled": true,
+  },
+  {
+    "id": 4,
+    "hostname": "[CN]加速",
+    "ip": "8.148.210.168",
+    "port": 25565,
+    "enabled": true,
+  },
+  {
+    "id": 5,
+    "hostname": "[DE]加速2",
+    "ip": "31.25.89.10:41598",
+    "port": 41598,
+    "enabled": true,
+  },
+  {
+    "id": 6,
+    "hostname": "[HK]加速",
+    "ip": "143.14.189.167",
+    "port": 25565,
+    "enabled": true,
+  }
+]
