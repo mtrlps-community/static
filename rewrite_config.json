@@ -12,15 +12,6 @@
     },
     {
       "patterns": [
-        "^https?://cdn\\.discordapp\\.com(?::(?:80|443))?/attachments/(.+)$",
-        "^https?://media\\.discordapp\\.net(?::(?:80|443))?/attachments/(.+)$"
-      ],
-      "target": "https://lps.gteh.top/dcimg/{$1}",
-      "ua": "SlideshowProxy",
-      "referer": "NULL"
-    },
-    {
-      "patterns": [
         "^https?://i\\.imgur\\.com(?::(?:80|443))?/(.+)$"
       ],
       "target": "https://img.noobzone.ru/getimg.php?url=https://i.imgur.com/{$1}",
