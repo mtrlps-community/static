@@ -1,0 +1,6 @@
+{
+  "unsup": "https://gitea.dusays.com/fenychn0206/LetsPlay-Packwiz/raw/branch/unsup/pack.toml",
+  "rpu": "https://gitea.dusays.com/fenychn0206/lps-community-guide/raw/branch/main/docs/assets/gameresources/client_config.json",
+  "gtehserverlistsync": "https://gitea.dusays.com/fenychn0206/static/raw/branch/main/servers.json",
+  "slideshowproxy": "https://gitea.dusays.com/fenychn0206/static/raw/branch/main/rewrite_config.json"
+}
