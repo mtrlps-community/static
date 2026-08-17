@@ -1,0 +1,6 @@
+{
+  "unsup": "https://ghfast.top/https://raw.githubusercontent.com/mtrlps-community/LetsPlay-Packwiz/unsup/pack.toml",
+  "rpu": "https://ghfast.top/https://raw.githubusercontent.com/mtrlps-community/lps-community-guide/main/doc/assets/gameresources/client_config.json",
+  "gtehserverlistsync": "https://ghfast.top/https://raw.githubusercontent.com/mtrlps-community/static/main/servers.json",
+  "slideshowproxy": "https://ghfast.top/https://raw.githubusercontent.com/mtrlps-community/static/main/rewrite_config.json"
+}
