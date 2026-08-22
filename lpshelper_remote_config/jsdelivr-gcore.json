@@ -1,6 +1,4 @@
 {
   "unsup": "https://gcore.jsdelivr.net/gh/mtrlps-community/LetsPlay-Packwiz@unsup/pack.toml",
-  "rpu": "https://gcore.jsdelivr.net/gh/mtrlps-community/lps-community-guide@main/docs/assets/gameresources/client_config.json",
-  "gtehserverlistsync": "https://gcore.jsdelivr.net/gh/mtrlps-community/static@main/servers.json",
-  "slideshowproxy": "https://gcore.jsdelivr.net/gh/mtrlps-community/static@main/rewrite_config.json"
+  "restart": ["0200", "0400", "0800", "1400", "1600", "2000"]
 }

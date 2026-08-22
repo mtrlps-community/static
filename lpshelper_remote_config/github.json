@@ -1,6 +1,4 @@
 {
   "unsup": "https://github.com/mtrlps-community/LetsPlay-Packwiz/raw/refs/heads/unsup/pack.toml",
-  "rpu": "https://github.com/mtrlps-community/lps-community-guide/raw/refs/heads/main/docs/assets/gameresources/client_config.json",
-  "gtehserverlistsync": "https://github.com/mtrlps-community/static/raw/refs/heads/main/servers.json",
-  "slideshowproxy": "https://github.com/mtrlps-community/static/raw/refs/heads/main/rewrite_config.json"
+  "restart": ["0200", "0400", "0800", "1400", "1600", "2000"]
 }
